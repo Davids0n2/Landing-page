@@ -15,4 +15,9 @@
         width: auto;
     }
 
+    .menu{
+        display: none;
+        flex-direction: column;
+    }
+
 }
