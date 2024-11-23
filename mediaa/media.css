@@ -15,9 +15,14 @@
         width: auto;
     }
 
-    .menu{
+    .menubar{
         display: none;
-        flex-direction: column;
     }
+    
+    .burguer{
+        cursor: pointer;
+        display: flex;
+    }
+    
 
 }

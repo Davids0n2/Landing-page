@@ -59,6 +59,11 @@ span{
     background-color: #db3a26;
 }
 
+.burguer{
+    display: none;
+}
+
+
 
 article{
     display: flex;
